@@ -1,7 +1,7 @@
 const Graph = () => {
   return (
     <div>
-      <div className="row px-5">
+      <div className="row px-5 bg-gradient">
         <div className="col">
           <div className="card">
             <div className="card-body">
